@@ -162,8 +162,6 @@ $ npm install
 $ npm start
 ```
 
-Happy coding!
-
 ---
 
 ## Author
